@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">babysitter</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_next">下一頁</string>
+    <string name="profile_back">返回</string>
+</resources>
